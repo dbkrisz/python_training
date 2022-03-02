@@ -24,3 +24,4 @@ print (type(5))
 print (type(3.14))
 print (type("hello"))
 age = "harminc"
+print ("hello git")
